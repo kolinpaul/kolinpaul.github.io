@@ -36,5 +36,5 @@ Work experience
 
 CV
 ======
-* Short CV [/files/shortCV.pdf]
-* Long CV [/files/Resume.pdf]
+* [Short CV](/files/shortCV.pdf)
+* [Long CV](/files/Resume.pdf)

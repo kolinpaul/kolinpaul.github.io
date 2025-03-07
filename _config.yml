@@ -9,7 +9,7 @@ IITD# Welcome to Jekyll!
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic"
+title                    : "MySpace"
 title_separator          : "-"
 name                     : &name "Kolin Paul"
 description              : &description "personal description"

@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+IITD# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -25,7 +25,7 @@ author:
   avatar           : "kolin.jpg"
   name             : "Kolin Paul"
   pronouns         : # example: "she/her"  
-  bio              : "Professor"
+  bio              : "Professor CSE@IITD"
   location         : "Room # SIT 102"
   employer         : "IIT Delhi"
   uri              : # URL

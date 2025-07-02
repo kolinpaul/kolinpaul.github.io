@@ -16,7 +16,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-      
+
+  - title: "Projects [IITD Intranel Access only]"
+    url: /projectsIITD/ 
+
+  
   - title: "CV"
     url: /cv/
     

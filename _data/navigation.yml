@@ -17,8 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Projects [IITD Intranel Access only]"
-    url: /projectsIITD/ 
+  - title: "Projects [IITD Intranet Access only]"
+    url: http://mosaic.cse.iitd.ac.in/node/16 
 
   
   - title: "CV"

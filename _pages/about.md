@@ -9,8 +9,8 @@ profile:
   image: kolin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 102, SIT </p>
-    <p>123 IIT Delhi </p>
+    <p>102  SIT </p>
+    <p>IIT Delhi </p>
     <p>New Delhi, Delhi 110016</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

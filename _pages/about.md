@@ -7,7 +7,7 @@ subtitle: <a href='#'>Professor</a>. Computer Science and Engg IIT Delhi
 profile:
   align: right
   image: kolin.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>102  SIT </p>
     <p>IIT Delhi </p>

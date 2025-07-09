@@ -1,3 +1,32 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: <a href='#'>Professor</a>. Computer Science and Engg IIT Delhi 
+
+profile:
+  align: right
+  image: kolin.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>102  SIT </p>
+    <p>IIT Delhi </p>
+    <p>New Delhi, Delhi 110016</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
+
 My research interests focus on the use of (embedded) heterogeneous [gpu, cpu, FPGA] systems in the design of high performance accelerators for HPC, affordable health care, security of cyberphysical systems and [more recently] quantum computing. I lead the  Systems Activities [Transpiler and Pulse Generation] of the **Quantum Computer Project** at IIT Delhi funded by the **National Quantum Mission**.
 I am always in the lookout for folks who are interested in a  doing a PhD.I will only respond to emails  requesting for positions in my group if the email has the word “_hollings_” in the salutation --- the word is an anagram for where I spent the first part of my life and is part of my sweetest memories. I am looking for students who would line to work in the general area of Computer Architecture and Embedded Systems. 
 

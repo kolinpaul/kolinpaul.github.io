@@ -11,12 +11,12 @@ related_posts: false
 **IIT Delhi and ARM** <br/>
 
 
-**Date**: 22nd, 23rd and 24th August 2025 \
+**Date**: 22nd, 23rd and 24th August 2025  <br/>
 
 **Venue**: IIT Delhi <br/>
 
 
-**Audience** : \ 
+**Audience** : <br/>
 College and University Teachers (Engineering, Computer Science, Electronics, AI/ML) <br/>
 
 No accommodation/TA/DA  will be provided. Please submit the form so that we inform you in case, you are selected for the workshop.  Priority for the selection will be based on experience and interest in hardware and systems teaching and research. <br/>

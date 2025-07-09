@@ -6,18 +6,20 @@ inline: true
 related_posts: false
 ---
 
-**Edge AI and Inference on ARM Platforms ---  A Practical Approach**
+**Edge AI and Inference on ARM Platforms ---  A Practical Approach** <br/>
 
-Date: 22nd, 23rd and 24th August 2025
+**IIT Delhi and ARM** <br/>
 
-Venue: IIT Delhi
 
-**IIT Delhi and ARM** 
+**Date**: 22nd, 23rd and 24th August 2025 \
 
-**Audience** : 
-College and University Teachers (Engineering, Computer Science, Electronics, AI/ML)
+**Venue**: IIT Delhi <br/>
 
-No accommodation/TA/DA  will be provided. Please submit the form so that we inform you in case, you are selected for the workshop.  Priority for the selection will be based on experience and interest in hardware and systems teaching and research.
+
+**Audience** : \ 
+College and University Teachers (Engineering, Computer Science, Electronics, AI/ML) <br/>
+
+No accommodation/TA/DA  will be provided. Please submit the form so that we inform you in case, you are selected for the workshop.  Priority for the selection will be based on experience and interest in hardware and systems teaching and research. <br/>
 
 Please fill in [this form](https://forms.gle/T2R3ojBdjLhzC88KA) on or before 15th August [5PM]. We will inform selected candidates via email.
 

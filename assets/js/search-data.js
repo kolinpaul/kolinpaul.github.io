@@ -419,11 +419,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/theQuantumBook/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "news-edge-ai-and-inference-on-arm-platforms-a-practical-approach-iit-delhi-and-arm-date-22nd-23rd-and-24th-august-2025-venue-iit-delhi-audience-college-and-university-teachers-engineering-computer-science-electronics-ai-ml-no-accommodation-ta-da-will-be-provided-please-submit-the-form-so-that-we-inform-you-in-case-you-are-selected-for-the-workshop-priority-for-the-selection-will-be-based-on-experience-and-interest-in-hardware-and-systems-teaching-and-research-please-fill-in-this-form-on-or-before-15th-august-5pm-we-will-inform-selected-candidates-via-email",
           title: 'Edge AI and Inference on ARM Platforms — A Practical Approach IIT Delhi...',
           description: "",

@@ -4,13 +4,14 @@ title: Quantum Computing for Everyone
 author: Chris Bernhardt
 cover: assets/img/book_covers/quantum.jpg
 isbn: 9780262039253 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: science
+categories: classics
 tags: top-100
 buy_link:https://mitpress.mit.edu/9780262039253/quantum-computing-for-everyone/
 started: 2025-01-23
 finished: 2025-03-07
 released: 2019
-stars: 
+stars: 5
+goodreads_review: 6318556633
 status: Finished
 ---
 

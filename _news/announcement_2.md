@@ -10,8 +10,9 @@ related_posts: false
 
 **IIT Delhi and ARM** <br/>
 
+** <span style="color:red"> Postponed</span>.** <br/>
 
-**Date**: 22nd, 23rd and 24th August 2025  <br/>
+**Date**: ~~22nd, 23rd and 24th August 2025~~  <br/>
 
 **Venue**: IIT Delhi <br/>
 

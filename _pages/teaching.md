@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: IITD internal links for courses that I have taught/am teaching
 nav: true
 nav_order: 6
 ---
 
-I am teaching  COL7418 and COL7001 this  semester.
+I am teaching  [COL7418](http://mosaic.cse.iitd.ac.in/node/14) and [COL7001](http://mosaic.cse.iitd.ac.in/node/13) this  semester.
 
 I have taught the following courses in my stay at IIT Delhi [the links may not work as this was hosted on a different server which had decided unilaterally to retire itself].
 

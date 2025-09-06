@@ -9,8 +9,8 @@ related_posts: false
 **Edge AI and Inference on ARM Platforms ---  A Practical Approach** <br/>
 
 **IIT Delhi and ARM** <br/>
-
 ** <span style="color:red"> Postponed</span>.** <br/>
+
 
 **Date**: ~~22nd, 23rd and 24th August 2025~~  <br/>
 

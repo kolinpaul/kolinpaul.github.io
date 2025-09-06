@@ -9,9 +9,11 @@ display_categories: [work, fun]
 horizontal: false
 ---
 **PhD Supervision**
-![The cool Folks](/assets/img/phdGroup-1.jpeg)
 
-Graduated
+![The cool Folks](/assets/img/phdGroup-1.jpeg)
+![phdGroup 2](/C:/Users/kolin/Documents/GitHub/kolinpaul.github.io/assets/img/phdGroup-2.png)
+
+*Graduated*
 1. Nagaraju P : An Automation Methodology for Building Application Specific Processor Architectures and Compilers, July 2009 . Co Supervisor: Anshul Kumar Current Affiliation: Google
 Labs.
 2. Sarat Chandran Varma : A Methodology for embedding Hard IPs Jan 2015 Co Supervisor M
@@ -36,6 +38,7 @@ Supervisor Anshul Kumar
 13. Cosupervised the work of two students studying at KTH
     1. Syed Mohammad Asad Hassan Jafri 2013
     2. Liu Pei 2015
-OnGoing
+
+*OnGoing*
 1. Priyanka Chauhan : [Started Jan 2020] Screening Devices for Cardiac Problems
 2. Chayanika Bhattacharjee [Started Jan 2020] TBD

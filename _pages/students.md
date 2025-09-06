@@ -10,11 +10,6 @@ horizontal: false
 ---
 **PhD Supervision**
 ![The cool Folks](/assets/img/phdGroup-1.jpeg)
-TBD
-![Alternate]<img src="/assets/img/phdGroup-1.jpeg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
 
 Graduated
 1. Nagaraju P : An Automation Methodology for Building Application Specific Processor Architectures and Compilers, July 2009 . Co Supervisor: Anshul Kumar Current Affiliation: Google

@@ -10,8 +10,7 @@ horizontal: false
 ---
 **PhD Supervision**
 
-![The cool Folks](/assets/img/phdGroup-1.jpeg)
-![phdGroup 2](/C:/Users/kolin/Documents/GitHub/kolinpaul.github.io/assets/img/phdGroup-2.png)
+![The cool Folks](/assets/img/phdGroup-2.png)
 
 *Graduated*
 1. Nagaraju P : An Automation Methodology for Building Application Specific Processor Architectures and Compilers, July 2009 . Co Supervisor: Anshul Kumar Current Affiliation: Google

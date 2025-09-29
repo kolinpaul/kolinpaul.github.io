@@ -8,23 +8,23 @@ related_posts: false
 
 **Edge AI and Inference on ARM Platforms ---  A Practical Approach** <br/>
 
-**Join the 5-day Faculty Development Program on “Edge AI and Inference on ARM Platforms: A Practical Approach” — organized by IIT Delhi with support from ARM.**
+**Join the 5-day Faculty Development Program on “Edge AI and Inference on ARM Platforms: A Practical Approach” — organized by IIT Delhi with support from ARM.**<br/>
 
-This immersive, hands-on workshop is designed for college and university teachers in **Engineering, Computer Science, Electronics, and AI/ML**.
+This immersive, hands-on workshop is designed for college and university teachers in **Engineering, Computer Science, Electronics, and AI/ML**. <br/>
 
--Learn AI model deployment on **ARM CPUs, GPUs, and NPUs**
+-Learn AI model deployment on **ARM CPUs, GPUs, and NPUs** <br/>
 
--Use **TensorFlow Lite, Arm NN, and CMSIS-NN** on real embedded platforms
+-Use **TensorFlow Lite, Arm NN, and CMSIS-NN** on real embedded platforms <br/>
 
--Build and benchmark **Edge AI applications** for IoT, vision, and robotics
+-Build and benchmark **Edge AI applications** for IoT, vision, and robotics <br/>
 
--Get ready-to-use lab setups, code repositories, and ARM learning resources
+-Get ready-to-use lab setups, code repositories, and ARM learning resources <br/>
 
-**Key outcome**: Empower yourself to guide students and develop curriculum in Edge AI, Embedded Systems, and IoT — leveraging the latest ARM technologies.
+**Key outcome**: Empower yourself to guide students and develop curriculum in Edge AI, Embedded Systems, and IoT — leveraging the latest ARM technologies. <br/>
 
 
 **IIT Delhi and ARM** <br/>
-** <span style="color:red"> New Dates</span>.** <br/>
+** <span style="color:red">  Dates</span>.** <br/>
 
 
 **Date**: 3-7 November 2025  <br/>
